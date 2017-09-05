@@ -141,8 +141,8 @@
     <Folder Include="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="App\Components\appComponent.ts" />
-    <TypeScriptCompile Include="App\mainModule.ts" />
+    <TypeScriptCompile Include="App\app.component.ts" />
+    <TypeScriptCompile Include="App\app.module.ts" />
     <TypeScriptCompile Include="App\main.ts" />
   </ItemGroup>
   <ItemGroup>
