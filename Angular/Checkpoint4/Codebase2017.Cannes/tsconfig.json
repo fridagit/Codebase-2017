@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": [ "es2015", "dom" ],
+    "declaration": true,
+    "sourceMap": false,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "outDir": "./dist/app"
+  },
+  "exclude": [
+    "node_modules",
+    "lib",
+    "dist"
+  ],
+  "compileOnSave": true
+}
